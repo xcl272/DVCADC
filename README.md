@@ -1,5 +1,5 @@
-# DVCADC
-A deep learning model, named DVMPDC, is developed based on a dual-view representation and cross-attention mechanism to predict synergistic drug combinations.
+# MVCASyn
+A deep learning model, named MVCASyn, is developed based on a dual-view representation and cross-attention mechanism to predict synergistic drug combinations.
 
 # Requirements
 python == 3.7.12
